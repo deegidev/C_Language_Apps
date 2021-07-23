@@ -8,7 +8,7 @@
 #include <ctype.h>
 
 // Displays the list of apps available
-//prompts for the user’s selection and sets the value of the selection
+//prompts for the userâ€™s selection and sets the value of the selection
 void DisplayApps(char *selectionPtr);
 //sets the cost of the item based on value stored in purchase
 void SetCost(char selection, double *costPtr);
@@ -77,7 +77,7 @@ int main()
 
 
 // Displays the list of apps available
-//prompts for the user’s selection and sets the value of the selection
+//prompts for the userâ€™s selection and sets the value of the selection
 void DisplayApps(char *selectionPtr)
 {
 	printf("HERE ARE APP THE SELECTIONS: \n\n");
